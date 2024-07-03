@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
-# gemaakt door stijn
+# gemaakt door florian
 # Klasse voor het berekenen van BTW
 class BTWCalculator:
     # Methode voor het berekenen van BTW
@@ -16,7 +16,7 @@ class BTWCalculator:
             # Terugkeerwaarde bij foutieve invoer
             return None, None, None
 
-# gemaakt door stijn
+# gemaakt door florian
 # Klasse voor het berekenen van reistijd
 class ReistijdCalculator:
     # Methode voor het berekenen van reistijd
@@ -30,7 +30,7 @@ class ReistijdCalculator:
             # Terugkeerwaarde bij foutieve invoer
             return None
 
-# gemaakt door stijn
+# gemaakt door florian
 # Klasse voor het berekenen van de omtrek en oppervlakte van een vierkant
 class VierkantCalculator:
     # Methode voor het berekenen van omtrek en oppervlakte
